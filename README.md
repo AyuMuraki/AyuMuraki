@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C1AAF7&background=FF353500&center=true&vCenter=true&repeat=true&width=435&lines=Hello;+My+name+is+Ayumi+Muraki;+I'm++24++years++old;+I'm++a++Software++Developer;+I'm++from++Brazil" alt="Typing SVG" width="600">
 </p>
 
-<br>
-<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d4b5336a-80e3-4bdb-822d-c9cd1591786b" alt="Kirby's Chill Land (1)">

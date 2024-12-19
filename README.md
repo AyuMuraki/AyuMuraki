@@ -16,7 +16,7 @@
 #
 
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia, games e animes. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades.
+<p align="center">Sou formada em Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia, games e animes. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades.
   Atualmente, meu foco está na linguagem C#, mas estou sempre aberta a novos desafios e aprendizados em diferentes áreas da programação. 
   Sinta-se à vontade para explorar meus projetos e não hesite em entrar em contato se tiver alguma dúvida ou apenas quiser bater um papo sobre tecnologia!
 

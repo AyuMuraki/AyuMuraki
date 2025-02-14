@@ -8,10 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4b5336a-80e3-4bdb-822d-c9cd1591786b" alt="Kirby's Chill Land (1)" width="820" height="312">
-
-
-
+  <img src="https://github.com/user-attachments/assets/714d7f48-d246-4224-9f07-b113fc8fb718">
 
 #
 

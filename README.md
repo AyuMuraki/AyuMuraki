@@ -1,70 +1,117 @@
-
-
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-
- <p align="center">
-     <img src="https://count.getloli.com/get/@AyuMuraki" alt="gelboru-h" />
-</p>   
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C1AAF7&background=FF353500&center=true&vCenter=true&repeat=true&width=435&lines=Hello;+My+name+is+Ayumi+Muraki;+I'm++24++years++old;+I'm++a++Software++Developer;+I'm++from++Brazil" alt="Typing SVG" width="600">
-</p>
-
-<h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="20"</h3>
-
-<p align="center">Sou formada em Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia, games e animes. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades.
-  Atualmente, meu foco está na linguagem Python, mas estou sempre aberta a novos desafios e aprendizados em diferentes áreas da programação. 
-  Sinta-se à vontade para explorar meus projetos e não hesite em entrar em contato se tiver alguma dúvida ou apenas quiser bater um papo sobre tecnologia!
-
-
-  <p align="center"><a href="https://github.com/ATravelerGo"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/89cec87f-ab70-44a0-a9e2-b5ae7522aa64" alt="Logo">
-  <h3 align="center">You can't change your destiny, but you can challenge it.</h3>
-
-
-  <p align="center"><a href="https://github.com/ATravelerGo"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>
-
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-
- <h3>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Languages and Tools 🧰
-
-
- #
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,py,cs,vscode,postman,mysql," />
-  </a>
-</p>
-
-
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Social Media</a></h3>  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,linkedin" />
-  </a>
-</p>
-
-## 
-
-<h3><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">Stats</h3>
-
-
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
 
 <div align="center">
-<h3>  <img src="https://github-readme-stats.vercel.app/api?username=AyuMuraki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150"/> <h3> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyuMuraki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=AyuMuraki&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-  <img src="https://streak-stats.demolab.com?user=AyuMuraki&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyuMuraki&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph" />
+  <img src="https://count.getloli.com/get/@AyuMuraki" alt="visitor counter" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&lines=I'm+a+Full+Stack+Developer"
+    alt="Typing SVG"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/89cec87f-ab70-44a0-a9e2-b5ae7522aa64"
+    alt="Ayumi banner"
+    width="380"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+
+### You can't change your destiny, but you can challenge it.
+
+</div>
+
+<br/>
+
+
+<br/>
+
+<h2 align="center">𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ <em>Sobre mim</em> 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼</h2>
+
+<div align="center" style="max-width: 1000px; margin: 0 auto;">
+
+Sou formada em **Análise e Desenvolvimento de Sistemas** e sou apaixonada por tecnologia, games e animes.  
+Atualmente, sigo evoluindo na área de desenvolvimento de software, explorando novas tecnologias e aprimorando minhas habilidades.  
+Gosto de construir projetos, aprender na prática e me desafiar em diferentes áreas da programação.
+
+</div>
+
+<br/>
+<br/>
+
+<h2 align="center">𓆜 𓆝 𓆞 𓆟⊹ ࣪ ﹏﹏𓂁﹏⊹ ࣪ ˖ <em>Tecnologias</em> 𓆜 𓆝 𓆞 𓆟⊹ ࣪ ﹏﹏𓂁﹏⊹ ࣪ ˖</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"
+    width="360"
+    alt="anime gif"
+  />
+</div>
+
+<br/>
+<br/>
+
+<h2 align="center">𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 <em>Estatísticas</em> 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AyuMuraki&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333"
+    height="170"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyuMuraki&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"
+    height="170"
+    alt="Top languages"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AyuMuraki&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border=333333"
+    height="170"
+    alt="GitHub streak"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AyuMuraki&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"
+    width="100%"
+    alt="Activity graph"
+  />
 </div>

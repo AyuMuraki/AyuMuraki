@@ -40,6 +40,8 @@
 <h2 align="center">𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ <em>Sobre mim</em> 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼</h2>
 
 <div align="center" style="max-width: 1000px; margin: 0 auto;">
+<br/>
+<br/>
 
 Sou formada em **Análise e Desenvolvimento de Sistemas** e sou apaixonada por tecnologia, games e animes.  
 Atualmente, sigo evoluindo na área de desenvolvimento de software, explorando novas tecnologias e aprimorando minhas habilidades.  
